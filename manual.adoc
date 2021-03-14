@@ -24,7 +24,7 @@ link:https://fukuimina.com/[fukuimina.com]
 === HTMLを書く準備をしよう
 デスクトップ上で右クリックをして、新規作成メニュー内にあるテキストドキュメントを開きます。
 
-image:https://github.com/Bpro-Mina/Bpro-manual/blob/main/img/1-1.png[300, 300]
+image:img/1-1.png[300, 300]
 
 するとデスクトップ上に新規テキストドキュメントファイルが作成されます。
 
@@ -32,7 +32,7 @@ image:https://github.com/Bpro-Mina/Bpro-manual/blob/main/img/1-1.png[300, 300]
 
 作成した新規テキストドキュメントファイルの名前をindexに変更し、保存します。
 
-image:https://github.com/Bpro-Mina/Bpro-manual/blob/main/img/1-2.png[300, 300]
+image:img/1-2.png[300, 300]
 
 この時ファイル名の後の部分「.txt」が表示されていない場合は、以下の記事を参照して「拡張子」を表示させて下さい。
 
